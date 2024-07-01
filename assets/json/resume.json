@@ -56,7 +56,7 @@
       "url": "https://ceclab.sites.ucsc.edu/",
       "startDate": "2022-09-22",
       "endDate": "2023-06-09",
-      "summary": "Data Analyst for a Cognitive Science Lab investing the minimal processing unit of speech",
+      "summary": "Data Analyst for a Cognitive Science Lab investigating the minimal processing unit of speech",
       "highlights": ["Managed a data pipeline transforming raw videos to clips of openface output",
       "Developed an unsupervised learning algorithm with 95% accuracy for speech onset and offset detection"]
     },    
