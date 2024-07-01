@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Greetings! My name is Alexander Feghhi. I’m a recent graduate of **UC Santa Cruz**, having majored in **Cognitive Science** and minored in **Computer Science**. Career-wise, I’m interested in **software engineering**, **data science**, and, should the opportunity present itself, **startups**[see my cv](/cv/).
+Greetings! My name is Alexander Feghhi. I’m a recent graduate of **UC Santa Cruz**, having majored in **Cognitive Science** and minored in **Computer Science**. Career-wise, I’m interested in **software engineering**, **data science**, and, should the opportunity present itself, **startups** ([see resume](/cv/)).
 
 Outside of work, my hobbies include **programming**, board games, video games, **grappling**, and **writing**. I usually program in **Python**, focusing on data science [projects](/projects/). My favorite board games are Settlers of Catan and chess (I was a youth player representing Spain internationally). I enjoy **wrestling** and **Brazilian Jiu-Jitsu** (wrestling is the one true sport). I will occasionally update the [blog](/blog/) section with my writings on various topics.
 
